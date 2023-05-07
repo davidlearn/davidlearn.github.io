@@ -1,4 +1,5 @@
 # Welcome to Quantum Intelligent Applications and Optimization Lab
+
 ## Research Areas
 #### Quantum Machine Learing
 #### Generative AI
