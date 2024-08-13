@@ -5,7 +5,7 @@
 #### Generative AI
 #### Cybersecurity
 
-## Application for Qiskit Advocate [applied and become a Qiskit Advocate in 2023)
+## Application for Qiskit Advocate (applied and become a Qiskit Advocate in 2023)
 - [Application repo for Qiskit Advocate](https://github.com/davidlearn/qiskitAdvocateApplication#readme).
 
 ## Events
